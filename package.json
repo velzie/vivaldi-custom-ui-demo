@@ -1,0 +1,26 @@
+{
+  "name": "modulestuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "@iconify/types": "^2.0.0",
+    "@ktibow/iconset-material-symbols": "^0.0.1751607664",
+    "@rsdoctor/rspack-plugin": "^1.1.8",
+    "@rspack/cli": "^1.4.6",
+    "@rspack/core": "^1.4.6",
+    "@types/chrome": "^0.1.0",
+    "dreamland": "github:MercuryWorkshop/dreamlandjs#vdom",
+    "esbuild": "^0.25.6",
+    "ts-checker-rspack-plugin": "^1.1.4",
+    "webcrack": "^2.15.1"
+  }
+}
